@@ -1,0 +1,23 @@
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.one {
+    font-width: 40px;
+}
+.two {
+    font-family: Comic Sans MC;
+}
+.three {
+    color: blue;
+    font-size: 50px;
+    font-family: Comic Sans MC;
+}

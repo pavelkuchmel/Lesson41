@@ -1,0 +1,11 @@
+.eee, .zzz, .ggg{
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial;
+}
+.zzz{
+    font-size: 30px;
+}
+.ggg{
+    font-size: 40px;
+}
